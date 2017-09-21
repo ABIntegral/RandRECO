@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="100rand" size="5.000000 2.366667" />
+    <ImageTarget name="50rand" size="5.000000 2.500000" />
+    <ImageTarget name="10rand" size="5.000000 2.708333" />
+    <ImageTarget name="R20" size="5.000000 2.628125" />
+    <ImageTarget name="south_africa_sarb_200_rand" size="5.000000 2.255319" />
+  </Tracking>
+</QCARConfig>
